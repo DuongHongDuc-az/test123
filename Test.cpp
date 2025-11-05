@@ -47,6 +47,7 @@ void intarrayInsert(vector <int>& a, vector<int>& b, int pos, int element){
     intarrayCat(a, b);
 }
 int main(){
-    int x[] = {3, 5, 2, 4, 9, 7, 8 ,6};
-    int n = sizeof
+    int x[] = {3, 5, 2, 4, 9, 7, 8 ,7};
+    int n = sizeof(x)/sizeof(int);
+    return 0;
 }
